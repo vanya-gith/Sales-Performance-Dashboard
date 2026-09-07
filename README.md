@@ -94,4 +94,5 @@ This project demonstrates my practical ability to work across the complete Power
 
 The project strengthened my hands-on skills in Power BI, DAX, Power Query, data modeling, business intelligence, and analytical storytelling.
 
-Dashboard Snapshot - https://github.com/vanya-gith/Sales-Performance-Dashboard/blob/main/Snapshot%20Of%20The%20Dashboard.png
+## 🖼️ Dashboard Preview -
+![Sales Performance Dashboard](https://github.com/vanya-gith/Sales-Performance-Dashboard/blob/main/Snapshot%20Of%20The%20Dashboard.png)
