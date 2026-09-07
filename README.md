@@ -41,7 +41,7 @@ Key activities included:
 ## 6. Data Modeling
 A **star-schema based data model** was implemented with 'FactSales' as the central fact table and dimension tables surrounding it.
 The model allows filters from dimensions to flow into the transactional sales table and provides consistent calculations across the dashboard.
-## 🖼️ Dashboard Preview :- 
+## 🖼️ Data_Model Preview :- 
 ![Data Model](https://github.com/vanya-gith/Sales-Performance-Dashboard/blob/main/Data%20Model%20Snapshot.png)
 
 ## 7. Row-Level Security (RLS)
