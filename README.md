@@ -40,10 +40,6 @@ Key activities included:
 
 ## 6. Data Modeling
 A **star-schema based data model** was implemented with 'FactSales' as the central fact table and dimension tables surrounding it.
-### Model Structure:
-
-              <img width="992" height="546" alt="image" src="https://github.com/user-attachments/assets/101b998d-aa39-486a-bd48-b2b525a82c4e" />
-
 The model allows filters from dimensions to flow into the transactional sales table and provides consistent calculations across the dashboard.
 
 ## 7. Row-Level Security (RLS)
@@ -60,11 +56,11 @@ This demonstrates how Power BI can be used not only for visualization but also f
 ## 8. Advanced Power BI Features
 The dashboard includes several interactive and advanced Power BI features:
 
-🔎 Drill-through – Dedicated Region Details page for detailed regional analysis
-🔖 Bookmarks – Used for navigation and Reset Filters functionality
-💡 Report Page Tooltips – Provides additional contextual information on hover
-🎛️ Dynamic Slicers & Filters – Allows users to interactively analyze different business dimensions
-📊 Interactive Visualizations – KPI cards, monthly trends, regional analysis, category analysis, customer segmentation, and product performance
+Drill-through – Dedicated Region Details page for detailed regional analysis
+Bookmarks – Used for navigation and Reset Filters functionality
+Report Page Tooltips – Provides additional contextual information on hover
+Dynamic Slicers & Filters – Allows users to interactively analyze different business dimensions
+Interactive Visualizations – KPI cards, monthly trends, regional analysis, category analysis, customer segmentation, and product performance
 
 ## 9. Business Objectives
 The dashboard was designed to answer key business questions such as:
