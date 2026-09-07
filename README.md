@@ -92,3 +92,5 @@ This project demonstrates my practical ability to work across the complete Power
 **Raw Data → Power Query → Data Cleaning → Data Modeling → DAX → KPI Development → Visualization → Interactivity → RLS → Business Insights**
 
 The project strengthened my hands-on skills in Power BI, DAX, Power Query, data modeling, business intelligence, and analytical storytelling.
+
+https://github.com/vanya-gith/Sales-Performance-Dashboard/blob/main/Snapshot%20Of%20The%20Dashboard.png
